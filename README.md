@@ -23,7 +23,7 @@
 
 ## 🛠 Встановлення (Installation)
 
-1. Завантажте файл `blender_distance_manager.py`.
+1. Завантажте файл `blender_distance_manager.zip`.
 2. Відкрийте Blender: **Edit > Preferences > Add-ons**.
 3. Натисніть **Install...** та виберіть завантажений файл.
 4. Активуйте аддон, поставивши галочку біля **Object: Blender Distance Manager Pro**.
