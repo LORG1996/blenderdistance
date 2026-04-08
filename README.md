@@ -8,7 +8,7 @@
 
 ## 📸 Screen
 ![Blender Distance Manager Panel]<p align="center">
-  <img src="assets/logo.png" alt="Logo" width="200">
+  <img src="assets/logo.png" alt="Logo" width="600">
 </p>
 
 ## ✨ Основні можливості (Features)
